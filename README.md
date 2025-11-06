@@ -1,6 +1,12 @@
 git clone
+
 cd Pariksha_AI
+
 cd client 
-pip install
+
+npm install
+
 cd ../server
-pip install
+
+npm install
+
